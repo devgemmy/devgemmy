@@ -7,12 +7,12 @@
 ⚡ Recently, I've been building Vue/Nuxt and React/Next projects, learning how to integrate APIs into my projects and deploying it to Netlify.<br/>
 
 I am optimistic and willing to add value to the success of the team through hard work, meticulous, and a solid understanding of frontend development.
-💼 Have a look at my [portfolio](https://devgemmy.com)
+<!-- 💼 Have a look at my [portfolio](https://devgemmy.com) -->
 
 😊 When I'm not coding, I love to:
 - ⭐️ Take beautiful pictures, you can see my photographs on my [instagram](https://instagram.com/devgemmy/)
 - 📺 Watch sci-fi, medieval, or comedy movies,
-- 📔 [write poems](https://www.instagram.com/devgemmy/guide/my-poem-collection/17938808914792607/)
+- 📔 Research on new ideas and [write poems](https://www.instagram.com/devgemmy/guide/my-poem-collection/17938808914792607/)
 - 📚 Read self-help books, check out this [library](https://z-lib.org/) full of free e-books 😊
 - 🧑‍🍳 Cook my favourite meals! (I love food)
 
