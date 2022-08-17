@@ -1,37 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Anthonia Alexis 👋
 
-Here are some ideas to get you started:
+🇳🇬 From Nigeria!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-<h1 align="center">Hi 👋, I'm Jinal Shah</h1>
-
-<h1 align="center">I'm Jinal Shah</h1>
-<p align="center">Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
+👨🏻‍💻 I am a Frontend Engineer at Nugitech,and a Tech Instructor at Nugi Innovations. 
+🧑‍🏫 I build creative software and teach people to do same.
+⚡ Recently, I've been building Vue/Nuxt and React/Next projects, learning how to integrate APIs into my projects and deploying it to Netlify.
+😆 When I'm not coding, I love to:
+- ⭐️ Take beautiful pictures, you can find my photographs on my [instagram](https://instagram.com/devgemmy/)
+- ✍️ Watch movies and write poems
+- 
+📫 How to reach me? [send me an email](mailto:ant0nialexis.dev@gmail.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinshah93&label=Profile%20views&color=dc143c&style=flat" alt="jinshah93" /> </p>
+Enthusiastic FullStack Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgemmy&label=Profile%1views&color=dc143c&style=flat" alt="devgemmy" /> </p>
 &nbsp;
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320"/>
-
-<h2> 👨🏻‍💻 About Me </h2>
-
-- 🔭 &nbsp; I’m currently Senior Software Engineer with RPA Business Anaylyst.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Master Degree Holder with Computer Science in Information Technology.
-- 💼 &nbsp; Fullstack Developer (Front-End + Back-End).
-- 🌱 &nbsp; Enthusiast in RPA and Data Sciences.
-- ✍️ &nbsp; Watching Hollywood Movies and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 <h2>🛠 Tech Stack</h2>
@@ -53,29 +39,5 @@ Here are some ideas to get you started:
 <h2>📌 Tech Stack Certifications </h2>
 
 📚 &nbsp; UiPath RPA Foundation | Java | ASP.NET 
-
-
-<h2 align="left"> GitHub Stats</h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinshah93&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22" alt="Jinal's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshah93&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jinshah93/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinshah93&&theme=tokyonight" alt="jinshah93" /></p>
-
-[![Jinal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jinshah93&&theme=xcode)](https://github.com/jinshah93)
-
-
-<h2 align="left">Connect with me</h2>
-
-<p align="left">
-&nbsp; <a href="https://twitter.com/TechIncognito" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/techiecapri/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/iamjinalshah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:techieshah93@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-
-⭐️From [Jinal Shah](https://github.com/jinshah93)
 
 :relieved:
