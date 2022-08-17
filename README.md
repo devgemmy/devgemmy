@@ -9,6 +9,9 @@
 🤗 I am optimistic and willing to add value to the success of the team through hard work, meticulous, and a solid understanding of frontend development.
 <!-- 💼 Have a look at my [portfolio](https://devgemmy.com) -->
 
+
+<h2 align="left">🤽‍♀️ Hobbies </h2>
+
 😊 When I'm not coding, I love to:
 - ⭐️ Take beautiful pictures, you can see my photographs on my [instagram](https://instagram.com/devgemmy/)
 - 📺 Watch sci-fi, medieval, or comedy movies,
@@ -17,7 +20,6 @@
 - 🧑‍🍳 Cook my favourite meals! (I love food)
 
 📫 How to reach me? [send me an email](mailto:ant0nialexis.dev@gmail.com)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgemmy&label=Profile%20views&color=dc143c&style=flat" alt="devgemmy" /> </p>
 &nbsp;
