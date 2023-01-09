@@ -15,7 +15,7 @@
 - 🎨 &nbsp; CSS | Bootstrap | Tailwind | Canva
 - 🧑‍💻 &nbsp; Typescript | React | Next | Redux | Vue | Nuxt | NodeJs
 - 🌐 &nbsp; JavaScript | JSON | jQuery | AJAX | HTML5 | Pug |  
-- 🛢 &nbsp; MySQL | MongoDB | Firebase 
+- 🛢 &nbsp; MySQL | MongoDB  
 - 🧰 &nbsp; Visual Studio | Sublime Text | GitHub
 
 <br/>
