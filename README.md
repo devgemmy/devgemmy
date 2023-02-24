@@ -12,11 +12,11 @@
 <br/>
 <h2>🛠 Tech Stack</h2>
 
-- 🎨 &nbsp; CSS | Bootstrap | Tailwind | Canva
-- 🧑‍💻 &nbsp; Typescript | React | Next | Redux | Vue | Nuxt | NodeJs
-- 🌐 &nbsp; JavaScript | JSON | jQuery | AJAX | HTML5 | Pug |  
+- 🎨 &nbsp; CSS | Bootstrap | Tailwind
+- 🧑‍💻 &nbsp; Typescript | React | Redux | Next | Angular | Vue | Nuxt | NodeJs
+- 🌐 &nbsp; JavaScript | JSON | jQuery | AJAX | HTML5 | Pug 
 - 🛢 &nbsp; MySQL | MongoDB  
-- 🧰 &nbsp; Visual Studio | Sublime Text | GitHub
+- 🧰 &nbsp; Visual Studio | GitHub
 
 <br/>
 <h2 align="left">🛠️ Languages and Tools</h2>
