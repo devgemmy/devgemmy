@@ -5,7 +5,7 @@
 👨🏻‍💻 I am a Frontend Engineer at Nugitech,and a Tech Instructor at Nugi Innovations.<br/>
 🧑‍🏫 I build creative software and teach people to do same.<br/>
 
-⚡ Recently, I've been building React/Next projects, also learning how to integrate APIs into my projects and deploying it to Netlify.<br/>
+⚡ Recently, I've been building React/Next projects, also learning how to integrate APIs into my projects and deploying them to Netlify.<br/>
 🤗 I am optimistic and willing to add value to the success of the team through hard work, meticulous, and a solid understanding of frontend development.
 <!-- 💼 Have a look at my [portfolio](https://devgemmy.com) -->
 
@@ -15,8 +15,8 @@
 - 🎨 &nbsp; CSS | Bootstrap | Tailwind
 - 🧑‍💻 &nbsp; Typescript | React | Redux | Next | Angular | Vue | Nuxt | NodeJs
 - 🌐 &nbsp; JavaScript | JSON | jQuery | AJAX | HTML5 | Pug 
-- 🛢 &nbsp; MySQL | MongoDB  
-- 🧰 &nbsp; Visual Studio | GitHub
+- 🛢 &nbsp; MySQL | MongoDB 
+- 🧰 &nbsp; Visual Studio | GitHub | Chrome | Postman
 
 <br/>
 <h2 align="left">🛠️ Languages and Tools</h2>
