@@ -2,19 +2,19 @@
 
 🇳🇬 From Nigeria!
 
-👨🏻‍💻 I am a Frontend Engineer at Nugitech,and a Tech Instructor at Nugi Innovations.<br/>
-🧑‍🏫 I build creative software and teach people to do same.<br/>
+👨🏻‍💻 I am a Frontend Engineer at Nugitech, and a Tech Instructor at Nugi Innovations.<br/>
+🧑‍🏫 I build beautiful software interfaces that display real-time data and teach people to do same.<br/>
 
-⚡ Recently, I've been building React/Next projects, also learning how to integrate APIs into my projects and deploying them to Netlify.<br/>
-🤗 I am optimistic and willing to add value to the success of the team through hard work, meticulous, and a solid understanding of frontend development.
+⚡ Recently, I've been building React/Next projects, also integrate APIs into these projects and deploying them.<br/>
+🤗 I am optimistic and willing to bring value to every project I'm put on, through meticulous designing, and a solid understanding of frontend development.
 <!-- 💼 Have a look at my [portfolio](https://devgemmy.com) -->
 
 <br/>
 <h2>🛠 Tech Stack</h2>
 
-- 🎨 &nbsp; CSS | Bootstrap | Tailwind
-- 🧑‍💻 &nbsp; Typescript | React | Redux | Next | Angular | Vue | Nuxt | NodeJs
-- 🌐 &nbsp; JavaScript | JSON | jQuery | AJAX | HTML5 | Pug 
+- 🎨 &nbsp; CSS3 | Bootstrap | Tailwind
+- 🧑‍💻 &nbsp; React | Redux | Next | Angular | Vue | Nuxt | NodeJs
+- 🌐 &nbsp; Typescript | JavaScript | HTML5
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🧰 &nbsp; Visual Studio | GitHub | Chrome | Postman
 
@@ -30,8 +30,8 @@
 - ⭐️ Take beautiful pictures, you can see my photographs on my [instagram](https://instagram.com/devgemmy/)
 - 📺 Watch sci-fi, medieval, or comedy movies,
 - 📔 Research on new ideas and [write poems](https://www.instagram.com/devgemmy/guide/my-poem-collection/17938808914792607/)
-- 📚 Read self-help books, check out this [library](https://z-lib.org/) full of free e-books 😊
-- 🧑‍🍳 Cook my favourite meals! (I love food)
+- 📚 Read self-help books 😊
+- 🧑‍🍳 Cook my favourite meals! (I LOVE food)
 
 📫 How to reach me? [send me an email](mailto:ant0nialexis.dev@gmail.com)
 
