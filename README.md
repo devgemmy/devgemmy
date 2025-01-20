@@ -38,3 +38,8 @@
 <br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgemmy&label=Profile%20views&color=e49bff&style=flat" alt="devgemmy" /> </p>
 &nbsp;
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=richardingwe&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=richardingwe&theme=tokyonight" />
+</p>
