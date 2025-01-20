@@ -40,6 +40,6 @@
 &nbsp;
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=richardingwe&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=richardingwe&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devgemmy&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devgemmy&theme=tokyonight" />
 </p>
