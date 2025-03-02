@@ -38,3 +38,10 @@
 <br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgemmy&label=Profile%20views&color=e49bff&style=flat" alt="devgemmy" /> </p>
 &nbsp;
+
+<br>
+<p align="center">
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devgemmy&theme=aura" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devgemmy&show_icons=true&theme=aura" />
+</p>
