@@ -6,7 +6,7 @@ Hi! 😊 I'm Anthonia Asikpo
 
 I’m a seasoned Software Engineer with 6+ years of hands-on experience across web, mobile, and desktop platforms — turning complex problems into elegant, user-centered solutions through frontend engineering. I also bring solid experience in backend development and cloud computing, making me a well-rounded engineer across the full stack.
 
-👥 I enjoy building intuitive, user-focused, functional interfaces in agile, collaborative teams, using multiple programming languages, libraries, frameworks and technologies such as Java, TypeScript, React, Python, NodeJS, GraphQL, SQL, SCSS, WebGL, Git and AWS, to name some.
+👥 I enjoy building intuitive, user-focused, functional interfaces in agile, collaborative teams, using multiple programming languages, libraries, frameworks and technologies.
 
 As a Women Techmakers (WTM) Lead, I gladly co-organize GDG Calabar events, uniting developers, enthusiasts and experts to explore emerging technologies.
 
@@ -19,11 +19,10 @@ As a Women Techmakers (WTM) Lead, I gladly co-organize GDG Calabar events, uniti
 <br/>
 <h2>🛠 Tech Stack</h2>
 
-- 🎨 &nbsp; CSS3 | Bootstrap | Tailwind
-- 🧑‍💻 &nbsp; React | Redux | Next | Angular | Vue | Nuxt | NodeJs
-- 🌐 &nbsp; Typescript | JavaScript | HTML5
-- 🛢 &nbsp; MySQL | MongoDB 
-- 🧰 &nbsp; Visual Studio | GitHub | Chrome | Postman
+- 🎨 &nbsp; CSS | Bootstrap | Tailwind | SCSS
+- 🧑‍💻 &nbsp; React | Redux | Next | Angular | WebGL
+- 🌐 &nbsp; Typescript | JavaScript | HTML5 
+- 🛢 &nbsp; Python | NodeJS | GraphQL | SQL | MongoDB
 
 <br/>
 <h2 align="left">🛠️ Languages and Tools</h2>
