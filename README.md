@@ -38,6 +38,7 @@ As a Women Techmakers (WTM) Lead, I gladly co-organize GDG Calabar events, uniti
 I strongly believe the greatest investment one can make is in oneself.
 
 Let’s connect and create something amazing at the crossroads of creativity and programming!
+
 📫 How to reach me? [send me an email](mailto:ant0nialexis.dev@gmail.com)
 
 <br/><br/>
