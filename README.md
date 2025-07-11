@@ -2,11 +2,18 @@
 
 🇳🇬 From Nigeria!
 
-👨🏻‍💻 I am a Frontend Engineer at Nugitech, and a Tech Instructor at Nugi Innovations.<br/>
-🧑‍🏫 I build beautiful software interfaces that display real-time data and teach people to do same.<br/>
+Hi! 😊 I'm Anthonia Asikpo
 
-⚡ Recently, I've been building React/Next projects, also integrate APIs into these projects and deploying them.<br/>
-🤗 I am optimistic and willing to bring value to every project I'm put on, through meticulous designing, and a solid understanding of frontend development.
+I’m a seasoned Software Engineer with 6+ years of hands-on experience across web, mobile, and desktop platforms — turning complex problems into elegant, user-centered solutions through frontend engineering. I also bring solid experience in backend development and cloud computing, making me a well-rounded engineer across the full stack.
+
+👥 I enjoy building intuitive, user-focused, functional interfaces in agile, collaborative teams, using multiple programming languages, libraries, frameworks and technologies such as Java, TypeScript, React, Python, NodeJS, GraphQL, SQL, SCSS, WebGL, Git and AWS, to name some.
+
+As a Women Techmakers (WTM) Lead, I gladly co-organize GDG Calabar events, uniting developers, enthusiasts and experts to explore emerging technologies.
+
+📚 I’m currently pursuing a BSc in Business Computing at Brunel University London.
+🎓 At Nugi Innovations, I serve as a Tech Instructor & Coding Curriculum Developer, empowering the next generation with practical tech skills.
+
+💡 Passionate about data-driven solutions, I explore the intersection of innovation and impact, with growing interests in data architecture, distributed systems, and IOT.
 <!-- 💼 Have a look at my [portfolio](https://devgemmy.com) -->
 
 <br/>
@@ -26,13 +33,12 @@
 <br/>
 <h2 align="left">🤽‍♀️ Hobbies </h2>
 
-😊 When I'm not coding, I love to:
+😊 Outside work, I’m deeply committed to self-improvement and personal growth.
 - ⭐️ Take beautiful pictures, you can see my photographs on my [instagram](https://instagram.com/devgemmy/)
-- 📺 Watch sci-fi, medieval, or comedy movies,
-- 📔 Research on new ideas and [write poems](https://www.instagram.com/devgemmy/guide/my-poem-collection/17938808914792607/)
-- 📚 Read self-help books 😊
-- 🧑‍🍳 Cook my favourite meals! (I LOVE food)
+- 📚 I enjoy reading self-help books 📗 and tuning into insightful podcasts 🎙️
+I strongly believe the greatest investment one can make is in oneself.
 
+Let’s connect and create something amazing at the crossroads of creativity and programming!
 📫 How to reach me? [send me an email](mailto:ant0nialexis.dev@gmail.com)
 
 <br/><br/>
